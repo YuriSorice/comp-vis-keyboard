@@ -1,2 +1,4 @@
 venv/
 *.avi
+src/sensor_layer/__pycache__
+*.json
